@@ -1,0 +1,22 @@
+.product-wrapper{
+    display: flex; 
+    border-bottom: 1px solid silver;
+    border-right: 1px solid silver;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+.product-img{
+    margin-right: 30px;
+}
+
+.btn{
+    padding: 9px 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background: rgb(223, 155, 66);
+    cursor: pointer;
+}
+
+.fa-star{
+    color: rgb(255, 190, 25);
+}

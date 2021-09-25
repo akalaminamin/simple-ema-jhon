@@ -1,0 +1,19 @@
+.logo{
+    width: 300px;
+    margin: 30px 0px;
+}
+nav{
+    background: darkblue;
+    padding: 15px 0;
+}
+nav .nav-link{
+    color: #fff;
+    text-decoration: none;
+    padding: 15px;
+    transition: all ease .3s;
+}
+nav .nav-link:hover{
+    background: #fff;
+    color: darkblue;
+}
+

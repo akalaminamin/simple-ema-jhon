@@ -1,0 +1,22 @@
+.shop-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  text-align: left;
+}
+.all-product {
+  margin-left: 100px;
+}
+
+.order-total {
+  color: rgb(212, 129, 3);
+}
+.search-box {
+  background: darkblue;
+  padding: 15px;
+}
+.input-field {
+  width: 50%;
+  padding: 10px;
+  outline: none;
+  border-radius: 5px;
+}
